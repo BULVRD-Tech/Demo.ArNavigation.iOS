@@ -1,0 +1,9 @@
+{
+  "commitish" : "v4.1.1",
+  "iOS" : [
+    {
+      "hash" : "297d630b6b2346e30b768aac6ed3c86dd567a127e1cdb3173bfc105358002049",
+      "name" : "Polyline"
+    }
+  ]
+}
